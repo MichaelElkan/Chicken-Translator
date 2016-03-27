@@ -1,7 +1,7 @@
 # Chicken-Translator
 Description: Simple code to translate chicken code into their more readable op codes. 
 Input must me correctly formated when copied in.
-When going from op codes to chicken op codes must be formated as such
+When going from op codes to chicken op codes must be formated as such:
 exit
 chicken
 add
