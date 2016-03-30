@@ -68,7 +68,7 @@ class Window(Frame):
                 self.textfield.insert(END,"jump\n")
             elif newc == 9:
                 self.textfield.insert(END,"char\n")
-            elif newc>10:
+            elif newc>=10:
                 self.textfield.insert(END,"push " +str(newc-10) +"\n")
     
             
